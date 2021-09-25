@@ -59,7 +59,7 @@ function ajax() {
                         });
                         promise.then(function() {
                             setTimeout(() => {
-                                alert("5 Tasks selected");
+                                alert("Congrats. 5 Tasks have been Successfully Completed");
                             }, 300);
                         });
                     });
